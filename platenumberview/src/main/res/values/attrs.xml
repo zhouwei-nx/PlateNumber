@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlateNumberView">
+        <attr name="textColor" format="color|reference"></attr>
+        <attr name="txtSize" format="dimension"></attr>
+        <attr name="space" format="dimension"></attr>
+        <attr name="leftTxt" format="string"></attr>
+        <attr name="leftTxtColor" format="color|reference"></attr>
+        <attr name="rightTxt" format="string"></attr>
+        <attr name="rightTxtColor" format="color|reference"></attr>
+    </declare-styleable>
+</resources>
